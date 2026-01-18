@@ -1,5 +1,9 @@
 # 👋 Hola, soy Lucas
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Analista+de+Sistemas+(ORT)+%F0%9F%8D%93;Especialista+en+MERN+Stack+%F0%9F%92%BB;Traduciendo+Negocio+a+Tecnologia+%E2%9A%99%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
+
 **Analista de Sistemas | Full Stack Developer**
 
 Analista de Sistemas en formación en **ORT Argentina** (cursando actualmente las últimas **4 materias** para el título). Cuento con un perfil híbrido único: combino **+10 años de experiencia en procesos administrativos y financieros** con el desarrollo de software moderno.
@@ -13,6 +17,7 @@ Analista de Sistemas en formación en **ORT Argentina** (cursando actualmente la
 
 ### 🙋‍♂️ Conéctate conmigo
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucas-imizcoz/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasleoimizcoz@gmail.com)
 
 ---
 
